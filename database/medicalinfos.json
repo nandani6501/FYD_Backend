@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "6204cce23e37c429c46bf8d6"
+  },
+  "Medical_Name": "Comred Medical Store",
+  "Rating": 4,
+  "Address": "Akar complex, Jail road, opposite sirT hospital",
+  "Area": "Ghogha Circle"
+},{
+  "_id": {
+    "$oid": "6204cd163e37c429c46bf8d7"
+  },
+  "Medical_Name": "Shivam Medical Store",
+  "Rating": 3.2,
+  "Address": "Near haluriya chowk",
+  "Area": "Leela circle"
+},{
+  "_id": {
+    "$oid": "6204cf103e37c429c46bf8d8"
+  },
+  "Medical_Name": "Merchant medical store",
+  "Address": "Near Barton library, Diwanpara",
+  "Area": "Diwanpara",
+  "Rating": 3.4
+},{
+  "_id": {
+    "$oid": "6204cf3f3e37c429c46bf8d9"
+  },
+  "Medical_Name": "Diamond Medical Store",
+  "Rating": 4.8,
+  "Area": "Mahila college",
+  "Address": "Happy Homes Flats"
+},{
+  "_id": {
+    "$oid": "6204cf663e37c429c46bf8da"
+  },
+  "Medical_Name": "Akar Medical Store",
+  "Rating": 5,
+  "Area": "Subhashnagar",
+  "Address": "safal Complex, Rupani"
+},{
+  "_id": {
+    "$oid": "6204cf803e37c429c46bf8db"
+  },
+  "Medical_Name": "Ved Medical Store",
+  "Rating": 3.9,
+  "Area": "Chitra",
+  "Address": "Kalanala Chowk, Bhavnagar"
+},{
+  "_id": {
+    "$oid": "6204cf9e3e37c429c46bf8dc"
+  },
+  "Medical_Name": "Unique Medical Store",
+  "Rating": 4.5,
+  "Area": "Sihor",
+  "Address": "Near Apollo hotel, bhavnagar"
+},{
+  "_id": {
+    "$oid": "6204cfc23e37c429c46bf8dd"
+  },
+  "Medical_Name": "Radhekishan Medical Store",
+  "Rating": 3.8,
+  "Area": "Ghogha circle",
+  "Address": "Harish Road, Radhanpuri Bajar"
+},{
+  "_id": {
+    "$oid": "6204d0523e37c429c46bf8e0"
+  },
+  "Medical_Name": "Nilkanth Medical Store",
+  "Rating": 4.5,
+  "Area": "Leela Cirle",
+  "Address": "Bank Society, Subhashnagar"
+},{
+  "_id": {
+    "$oid": "6204d0b13e37c429c46bf8e1"
+  },
+  "Medical_Name": "Zydus Medical Store",
+  "Rating": 5,
+  "Area": "Diwanpara",
+  "Address": "Near Takhtasinh hospital, Kalanala"
+},{
+  "_id": {
+    "$oid": "6204d0ca3e37c429c46bf8e2"
+  },
+  "Medical_Name": "Cadilla Medical Agency",
+  "Rating": 4.6,
+  "Area": "Mahila College",
+  "Address": "Vrajvihar Flat"
+},{
+  "_id": {
+    "$oid": "6204d3b93e37c429c46bf8e3"
+  },
+  "Medical_Name": "Sachdev medical and general store",
+  "Rating": 2.6,
+  "Area": "Ghogha circle",
+  "Address": "Parth Complex, Digvijaysinh Gohil Marg"
+},{
+  "_id": {
+    "$oid": "6204d3ee3e37c429c46bf8e4"
+  },
+  "Medical_Name": "Zycad Medical Store",
+  "Rating": 3.6,
+  "Area": "Mahila college",
+  "Address": "Jamiya miliya islamiya university road, gandhinagar"
+},{
+  "_id": {
+    "$oid": "6204d4a43e37c429c46bf8e5"
+  },
+  "Medical_Name": "Siemens Medical Agency",
+  "Rating": 3.8,
+  "Area": "Leela circle",
+  "Address": "Kalash Flat, Opp. Dimple resstaurant"
+},{
+  "_id": {
+    "$oid": "6204d5123e37c429c46bf8e6"
+  },
+  "Medical_Name": "Vitro Machinery And Medical Store",
+  "Rating": 4.8,
+  "Area": "Sihor",
+  "Address": "Near City Hospital, Sardarnagar"
+},{
+  "_id": {
+    "$oid": "6204d5423e37c429c46bf8e7"
+  },
+  "Medical_Name": "Dabson Medical Store",
+  "Rating": 2.9,
+  "Area": "Subhashnagar",
+  "Address": "Don chawk, Himaliya mall"
+}]
